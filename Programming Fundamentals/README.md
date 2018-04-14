@@ -1,4 +1,4 @@
-.<p align="center"> Programming Fundamentals - Extended - март 2018<p>
+.<h1 align="center"> Programming Fundamentals - Extended - март 2018</h1>
 <a href="https://softuni.bg/trainings/1786/programming-fundamentals-january-2018">  ![SoftUni logo][logo] <a/>
 
 [logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
