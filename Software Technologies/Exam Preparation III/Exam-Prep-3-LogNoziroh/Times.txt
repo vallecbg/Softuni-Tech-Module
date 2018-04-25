@@ -1,0 +1,8 @@
+C# - Start 7:00PM
+	End 7:10PM
+Java Start 8:30PM
+	End 8:45PM
+PHP  Start 9:20PM
+	End 9:35PM
+JS - Start 9:40PM
+	End 9:45PM
