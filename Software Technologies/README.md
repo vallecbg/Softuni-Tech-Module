@@ -23,23 +23,22 @@
 
 ## Exercises.
 
-1. <a href="#"> GIT AND GITHUB - EXERCISES </a> 
-2. <a href="#"> HTTP BASICS AND DATABASES - EXERCISES </a> 
-3. <a href="#"> HTML5 AND CSS - EXERCISES </a> 
-4. <a href="#"> HTML5 AND CSS - EXERCISES (SLICE AND DICE THE BLOG WEB DESIGN) </a> 
-5. <a href="#"> JAVASCRIPT: SYNTAX AND BASIC WEB - EXERCISES </a>
-6. <a href="#"> JAVASCRIPT: EXPRESSJS OVERVIEW - EXERCISES </a>
-7. <a href="#"> JAVASCRIPT: BLOG BASIC FUNCTIONALITY - EXERCISES </a>
-8. <a href="#"> PHP: SYNTAX AND BASIC WEB - EXERCISES </a>
-9. <a href="#"> PHP: MVC & SYMFONY OVERVIEW - EXERCISES </a>
-10. <a href="#"> PHP: BLOG BASIC FUNCTIONALITY - EXERCISES </a>
-11. <a href="#"> JAVA: BASIC SYNTAX - EXERCISES </a>
-12. <a href="#"> JAVA: BASIC WEB - EXERCISES </a>
-13. <a href="#"> JAVA: BLOG BASIC FUNCTIONALITY - EXERCISES </a>
-14. <a href="#"> C#: ASP.NET MVC OVERVIEW - EXERCISES </a>
-15. <a href="#"> C#: BLOG BASIC FUNCTIONALITY - EXERCISES </a>
-16. <a href="#"> C#: BLOG BASIC FUNCTIONALITY - EXERCISES </a>
-17. <a href="#"> Exam Preparation I </a>
-18. <a href="#"> Exam Preparation II </a>
-19. <a href="#"> Exam Preparation III </a>
-20. <a href="#"> Final Exam </a>
+1. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/Git%20and%20Github%20-%20Exercises"> GIT AND GITHUB - EXERCISES </a> 
+2. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/HTTP%20and%20Databases%20-%20Exercise"> HTTP BASICS AND DATABASES - EXERCISES </a> 
+3. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/HTML5%20AND%20CSS%20-%20EXERCISES"> HTML5 AND CSS - EXERCISES </a> 
+4. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/HTML5%20AND%20CSS%20-%20EXERCISES%20(SLICE%20AND%20DICE%20THE%20BLOG%20WEB%20DESIGN)"> HTML5 AND CSS - EXERCISES (SLICE AND DICE THE BLOG WEB DESIGN) </a> 
+5. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/JavaScript%20Basics%20-%20Exercises"> JAVASCRIPT: SYNTAX AND BASIC WEB - EXERCISES </a>
+6. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/JAVASCRIPT%20EXPRESSJS%20OVERVIEW%20-%20EXERCISES/expressjs-lab"> JAVASCRIPT: EXPRESSJS OVERVIEW - EXERCISES </a>
+7. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/JAVASCRIPT%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EXERCISES/JavaScript%20and%20MySQL%20Blog"> JAVASCRIPT: BLOG BASIC FUNCTIONALITY - EXERCISES </a>
+8. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/PHP%20Basic%20Syntax%20-%20Exercises"> PHP: SYNTAX AND BASIC WEB - EXERCISES </a>
+9. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/PHP%20MVC%20%26%20SYMFONY%20OVERVIEW%20-%20EXERCISES/Calculator"> PHP: MVC & SYMFONY OVERVIEW - EXERCISES </a>
+10. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/PHP%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EXERCISES"> PHP: BLOG BASIC FUNCTIONALITY - EXERCISES </a>
+11. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/JAVA%20BASIC%20SYNTAX%20-%20EXERCISES"> JAVA: BASIC SYNTAX - EXERCISES </a>
+12. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/JAVA%20BASIC%20WEB%20-%20EXERCISES/Java-Calculator"> JAVA: BASIC WEB - EXERCISES </a>
+13. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/JAVA%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EXERCISES"> JAVA: BLOG BASIC FUNCTIONALITY - EXERCISES </a>
+14. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/C%23%20ASP.NET%20MVC%20OVERVIEW%20-%20EXERCISES"> C#: ASP.NET MVC OVERVIEW - EXERCISES </a>
+15. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/C%23%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EXERCISES"> C#: BLOG BASIC FUNCTIONALITY - EXERCISES </a>
+16. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/Exam%20Preparation%20I/Exam-Prep-1"> Exam Preparation I </a>
+17. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/Exam%20Preparation%20II"> Exam Preparation II </a>
+18. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/Exam%20Preparation%20III"> Exam Preparation III </a>
+19. <a href="https://github.com/vallecbg/Softuni-Tech-Module/tree/master/Software%20Technologies/Exam%20-%2022%20March%202018/CatShop"> Final Exam </a>
