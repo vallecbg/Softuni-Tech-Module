@@ -1,0 +1,7 @@
+USE `softuni`softunistudents;
+
+CREATE TABLE `students` (
+	`id` INT(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	`name` VARCHAR(50) NOT NULL,
+	`age` INT(11)
+) CHARACTER SET utf8 COLLATE utf8_general_ci;
