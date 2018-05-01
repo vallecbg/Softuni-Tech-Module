@@ -1,0 +1,16 @@
+{% extends 'base.html.twig' %}
+
+{% block body_id 'profile' %}
+
+{% block main %}
+    <div>
+        <b>Email:</b>
+        {{ user.email }}
+        <br>
+        <b>Full Name:</b>
+        {{ user.fullName }}
+        <div class="pull-right">
+            <a class="btn btn-default btn-xs" href="{{ path('blog_index') }}">back &raquo;</a>
+        </div>
+    </div>
+{% endblock %}
