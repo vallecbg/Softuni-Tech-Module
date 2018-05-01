@@ -1,0 +1,49 @@
+<form class="form-inline" th:action="@{/}" method="POST">
+    <fieldset>
+        <div class="form-group">
+            <div class="col-sm-1 ">
+                <input type="number" class="form-control" id="leftOperand" placeholder="Left Operand"
+                       name="leftOperand" th:value="${leftOperand}"/>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-sm-4 ">
+                <select class="form-control" name="operator">
+                    <option value="+" th:selected="${operator.equals('+')}">+</option>
+                    <option value="-" th:selected="${operator.equals('-')}">-</option>
+                    <option value="*" th:selected="${operator.equals('*')}">*</option>
+                    <option value="/" th:selected="${operator.equals('/')}">/</option>
+                    <option value="%" th:selected="${operator.equals('%')}">%</option>
+                    <option value="POW" th:selected="${operator.equals('POW')}">POW</option>
+                    <option value="SQRT" th:selected="${operator.equals('SQRT')}">SQRT</option>
+                    <option value="PI" th:selected="${operator.equals('PI')}">PI</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-sm-4 ">
+                <input type="number" class="form-control" id="rightOperand" placeholder="Right Operand"
+                       name="rightOperand" th:value="${rightOperand}"/>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-sm-2 ">
+                <p>=</p>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-sm-4 ">
+                <input type="number" class="form-control" id="result" placeholder="Result"
+                       name="result" onkeydown="return false" th:value="${result}"/>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Calculate</button>
+        </div>
+    </fieldset>
+</form>
